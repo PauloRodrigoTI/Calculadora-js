@@ -11,7 +11,11 @@ function adicionar(valor) {
     display.value += valor;
 }
 
-function limpar() {
+function apagarUltimo() {
+    display.value = display.value.slice(0, -1);
+}
+
+function limparTudo() {
     display.value = '';
 }
 
