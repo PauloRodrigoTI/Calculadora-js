@@ -1,5 +1,8 @@
 # 📱 Calculadora Básica em JavaScript
 
+site online:
+https://paulorodrigoti.github.io/Calculadora-js/
+
 Este é um projeto de uma **calculadora web**, feita com **HTML**, **CSS** e **JavaScript** puro.
 
 O design é moderno e minimalista, com botões interativos e suporte às principais operações matemáticas:
